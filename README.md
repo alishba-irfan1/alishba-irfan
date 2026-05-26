@@ -8,14 +8,6 @@
 </div>
 <br/>
 
-<!-- ░░ ANIME AVATAR + ANIMATED ICONS ROW ░░ -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" alt="wave"/>
-&nbsp;&nbsp;
-<img src="https://i.pinimg.com/736x/a4/6e/f3/a46ef38d4bdb540e87edf7b2f8fe5b0e.jpg" width="145" style="border-radius:50%" alt="Alishba Irfan"/>
-&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="45" alt="heart"/>
 
 <br/><br/>
 
@@ -31,51 +23,6 @@
 <br/>
 
 ---
-
-<!-- ░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░ -->
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" width="38"/> &nbsp; a b o u t &nbsp; m e
-
-</div>
-
-<table align="center" border="0" cellpadding="0" cellspacing="10">
-<tr>
-<td width="54%" valign="top">
-
-```yaml
-# ✦ alishba.yml
-
-name       : Alishba Irfan
-pronouns   : she / her
-location   : Pakistan 🇵🇰
-
-roles:
-  - 🤖 ML Engineer
-  - 🌐 Full Stack Developer
-
-focus:
-  - Natural Language Processing
-  - Computer Vision
-  - Large Language Models
-  - End-to-End Web Applications
-
-currently_exploring:
-  - Generative AI & LLM Fine-tuning
-  - Agentic AI Systems
-  - Edge AI & On-device Inference
-
-fun_facts:
-  - Names variables like story characters 🌙
-  - Debugs at midnight & somehow it works ✨
-  - Research papers > Netflix 📚
-  - Every project has a theme song 🎵
-```
-
-</td>
-<td width="46%" align="center" valign="middle">
-
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="260" alt="coding gif"/>
 
 <br/><br/>
 
@@ -150,10 +97,6 @@ fun_facts:
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlishbaIrfan&show_icons=true&count_private=true&include_all_commits=true&bg_color=fff0f5&title_color=e91e8c&icon_color=e91e8c&text_color=880e4f&border_color=f8bbd0&border_radius=14" height="170" alt="stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIrfan&layout=compact&langs_count=8&bg_color=fff0f5&title_color=e91e8c&text_color=880e4f&border_color=f8bbd0&border_radius=14" height="170" alt="top langs"/>
-
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=AlishbaIrfan&background=FFF0F5&ring=E91E8C&fire=F06292&currStreakLabel=E91E8C&border=F8BBD0&currStreakNum=C2185B&sideLabels=E91E8C&sideNums=C2185B&dates=F48FB1&border_radius=14" height="170" alt="streak"/>
@@ -163,17 +106,6 @@ fun_facts:
 <br/>
 
 ---
-
-<!-- ░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░ -->
-<div align="center">
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Ribbon.png" width="35"/> &nbsp; t r o p h i e s
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=AlishbaIrfan&theme=rosy&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="trophies"/>
-
-</div>
 
 <br/>
 
@@ -247,20 +179,9 @@ fun_facts:
 <br/>
 
 <!-- ░░ FOOTER ░░ -->
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="32" alt="heart"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="32" alt="star"/>
-&nbsp;
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="32" alt="heart"/>
 
 <br/><br/>
 
-*crafted with* 💖 *by* **Alishba Irfan** &nbsp;·&nbsp; *may your models converge & your PRs ship cleanly* ✨
-
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&fontSize=0" width="100%"/>
 
 </div>
