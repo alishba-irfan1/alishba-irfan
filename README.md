@@ -1,157 +1,272 @@
-<!-- ╔══════════════════════════════════════╗ -->
-<!--        ✦ ALISHBA IRFAN ✦              -->
-<!-- ╚══════════════════════════════════════╝ -->
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!--        ✦  ALISHBA IRFAN  ·  GITHUB PROFILE README  ✦          -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
+<!-- ░░ ANIMATED CYLINDER HEADER ░░ -->
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=24,20,18,17,30&text=Alishba%20Irfan&fontSize=75&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=♡%20ML%20Engineer%20•%20Full%20Stack%20Developer%20♡&descAlignY=58&descSize=22"/>
-
+<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Alishba%20Irfan&fontSize=72&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=✦%20ML%20Engineer%20%20·%20%20Full%20Stack%20Developer%20✦&descAlignY=75&descSize=20&descColor=ffd6e7" width="100%"/>
 </div>
 
+<!-- ░░ TYPING ANIMATION ░░ -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=23&duration=2800&pause=1000&color=E91E8C&center=true&vCenter=true&width=640&height=55&lines=🌸+Welcome+to+my+GitHub+universe+🌸;✨+I+build+things+that+think+%26+feel;🤖+NLP+·+Computer+Vision+·+LLMs;🌙+From+raw+data+to+polished+products;💫+Clean+code+·+Aesthetic+UIs+·+Big+dreams" alt="Typing SVG"/>
+</div>
+
+<br/>
+
+<!-- ░░ ANIME AVATAR + ANIMATED ICONS ROW ░░ -->
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=24&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=🌸+Welcome+to+my+dreamy+code+space;💖+Building+AI+with+aesthetic+energy;✨+ML+Engineer+%7C+Full+Stack+Developer;🎀+Turning+ideas+into+beautiful+experiences;🌷+Code+.+Creativity+.+Coffee+.+Chaos"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="45" alt="wave"/>
+&nbsp;&nbsp;
+<img src="https://i.pinimg.com/736x/a4/6e/f3/a46ef38d4bdb540e87edf7b2f8fe5b0e.jpg" width="145" style="border-radius:50%" alt="Alishba Irfan"/>
+&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkling%20Heart.png" width="45" alt="heart"/>
 
 <br/><br/>
 
-<img src="https://i.pinimg.com/originals/8f/8f/e5/8f8fe5e0f4b2a4f9d2f14fd1b4d1c7d7.gif" width="220"/>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=AlishbaIrfan&style=for-the-badge&color=ff69b4&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/AlishbaIrfan?style=for-the-badge&color=ff69b4&labelColor=ffc0cb"/>
-<img src="https://img.shields.io/github/stars/AlishbaIrfan?style=for-the-badge&color=ff69b4&labelColor=ffc0cb"/>
+<!-- BADGES -->
+<img src="https://komarev.com/ghpvc/?username=AlishbaIrfan&color=e91e8c&style=for-the-badge&label=PROFILE+VIEWS" alt="views"/>
+&nbsp;
+<img src="https://img.shields.io/github/followers/AlishbaIrfan?label=Followers&style=for-the-badge&color=e91e8c&labelColor=fce4ec" alt="followers"/>
+&nbsp;
+<img src="https://img.shields.io/github/stars/AlishbaIrfan?label=Stars&style=for-the-badge&color=e91e8c&labelColor=fce4ec" alt="stars"/>
 
 </div>
+
+<br/>
 
 ---
 
+<!-- ░░░░░░░░░░░░  ABOUT ME  ░░░░░░░░░░░░ -->
 <div align="center">
 
-# 🎀 about me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Girl.png" width="38"/> &nbsp; a b o u t &nbsp; m e
 
 </div>
 
-<div align="center">
+<table align="center" border="0" cellpadding="0" cellspacing="10">
+<tr>
+<td width="54%" valign="top">
 
 ```yaml
-name: Alishba Irfan
+# ✦ alishba.yml
 
-role:
+name       : Alishba Irfan
+pronouns   : she / her
+location   : Pakistan 🇵🇰
+
+roles:
   - 🤖 ML Engineer
   - 🌐 Full Stack Developer
 
-currently_learning:
-  - Generative AI
-  - LLM Applications
-  - Smart Web Systems
+focus:
+  - Natural Language Processing
+  - Computer Vision
+  - Large Language Models
+  - End-to-End Web Applications
 
-loves:
-  - Pink aesthetics 🌸
-  - Building creative things ✨
-  - AI + Design 💖
-  - Midnight coding 🌙
+currently_exploring:
+  - Generative AI & LLM Fine-tuning
+  - Agentic AI Systems
+  - Edge AI & On-device Inference
 
-goal:
-  Creating intelligent & beautiful digital experiences
+fun_facts:
+  - Names variables like story characters 🌙
+  - Debugs at midnight & somehow it works ✨
+  - Research papers > Netflix 📚
+  - Every project has a theme song 🎵
 ```
 
+</td>
+<td width="46%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="260" alt="coding gif"/>
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="28"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="28"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="28"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="28"/>
+
+<br/><br/>
+
+> *"Data is my canvas.*
+> *Code is my brush."* 🎨
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░  TECH STACK  ░░░░░░░░░░░░ -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Revolving%20Hearts.png" width="35"/> &nbsp; t e c h &nbsp; s t a c k
+
+</div>
+
+<h4 align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Technologist.png" width="22"/>
+&nbsp; Machine Learning & AI
+</h4>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv&theme=light&perline=4" alt="ML icons"/>
+<br/><br/>
+<img src="https://img.shields.io/badge/Scikit--Learn-FFB6C1?style=for-the-badge&logo=scikit-learn&logoColor=c2185b" alt="sklearn"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFB6C1?style=for-the-badge&logo=huggingface&logoColor=c2185b" alt="huggingface"/>
+<img src="https://img.shields.io/badge/Pandas-FFB6C1?style=for-the-badge&logo=pandas&logoColor=c2185b" alt="pandas"/>
+<img src="https://img.shields.io/badge/NumPy-FFB6C1?style=for-the-badge&logo=numpy&logoColor=c2185b" alt="numpy"/>
+<img src="https://img.shields.io/badge/Jupyter-FFB6C1?style=for-the-badge&logo=jupyter&logoColor=c2185b" alt="jupyter"/>
+<img src="https://img.shields.io/badge/LangChain-FFB6C1?style=for-the-badge&logo=chainlink&logoColor=c2185b" alt="langchain"/>
+</div>
+
+<br/>
+
+<h4 align="center">🌐 &nbsp; Frontend</h4>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,html,css&theme=light&perline=6" alt="frontend icons"/>
+</div>
+
+<br/>
+
+<h4 align="center">🛠 &nbsp; Tools & Workflow</h4>
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman&theme=light&perline=6" alt="tools icons"/>
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░  GITHUB STATS  ░░░░░░░░░░░░ -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Growing%20Heart.png" width="35"/> &nbsp; g i t h u b &nbsp; s t a t s
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlishbaIrfan&show_icons=true&count_private=true&include_all_commits=true&bg_color=fff0f5&title_color=e91e8c&icon_color=e91e8c&text_color=880e4f&border_color=f8bbd0&border_radius=14" height="170" alt="stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIrfan&layout=compact&langs_count=8&bg_color=fff0f5&title_color=e91e8c&text_color=880e4f&border_color=f8bbd0&border_radius=14" height="170" alt="top langs"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=AlishbaIrfan&background=FFF0F5&ring=E91E8C&fire=F06292&currStreakLabel=E91E8C&border=F8BBD0&currStreakNum=C2185B&sideLabels=E91E8C&sideNums=C2185B&dates=F48FB1&border_radius=14" height="170" alt="streak"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░  TROPHIES  ░░░░░░░░░░░░ -->
+<div align="center">
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Heart%20with%20Ribbon.png" width="35"/> &nbsp; t r o p h i e s
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=AlishbaIrfan&theme=rosy&no-frame=true&no-bg=true&margin-w=8&column=7" width="95%" alt="trophies"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░  CONTRIBUTION SNAKE  ░░░░░░░░░░░░ -->
+<div align="center">
+
+## 🐍 &nbsp; c o n t r i b u t i o n &nbsp; s n a k e
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%" alt="snake animation"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░  ACTIVITY GRAPH  ░░░░░░░░░░░░ -->
+<div align="center">
+
+## 📈 &nbsp; a c t i v i t y &nbsp; g r a p h
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishbaIrfan&bg_color=fff0f5&color=e91e8c&line=f48fb1&point=c2185b&area=true&area_color=fce4ec&border_color=f8bbd0&radius=12" width="95%" alt="activity graph"/>
+
+</div>
+
+<br/>
+
+---
+
+<!-- ░░░░░░░░░░░░  FEATURED PROJECTS  ░░░░░░░░░░░░ -->
+<div align="center">
+
+## 🌺 &nbsp; f e a t u r e d &nbsp; p r o j e c t s
+
 </div>
 
 <br/>
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g4eDNoM3V0Zm0xMTRsY2R1MGlpMXo5Z2N5dHk5OGN1N2Vlbm8xMSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0MYt5jPR6QX5pnqM/giphy.gif" width="300"/>
-
-<br/><br/>
-
-> ### ✨ “Code with logic, create with heart.” ✨
-
-</div>
-
----
-
-<div align="center">
-
-# 💖 tech universe
+| 🌸 &nbsp; Project | 💡 &nbsp; What it does | 🛠 &nbsp; Stack |
+|:---|:---|:---|
+| **✨ Neural Blossom** | Image recognition with visual explainability | PyTorch · FastAPI · React |
+| **🌙 Sakura Predict** | Time-series forecasting dashboard | TensorFlow · Next.js · PostgreSQL |
+| **💫 ML Studio** | No-code ML pipeline builder | Scikit-learn · Django · TypeScript |
+| **🎀 Moonlit Chat** | LLM-powered conversational assistant | LangChain · FastAPI · React |
 
 </div>
-
-<div align="center">
-
-### 🌸 Languages & Frameworks
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,react,nextjs,tailwind,php,mysql&theme=light"/>
-
-<br/><br/>
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv&theme=light"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/Scikit--Learn-ffd6e7?style=for-the-badge&logo=scikit-learn&logoColor=ff1493"/>
-<img src="https://img.shields.io/badge/Pandas-ffd6e7?style=for-the-badge&logo=pandas&logoColor=ff1493"/>
-<img src="https://img.shields.io/badge/NumPy-ffd6e7?style=for-the-badge&logo=numpy&logoColor=ff1493"/>
-<img src="https://img.shields.io/badge/HuggingFace-ffd6e7?style=for-the-badge&logo=huggingface&logoColor=ff1493"/>
-
-<br/><br/>
-
-### 🩰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux,postman&theme=light"/>
-
-</div>
-
 ---
 
+<!-- ░░░░░░░░░░░░  MARQUEE / FOOTER BANNER  ░░░░░░░░░░░░ -->
 <div align="center">
 
-# 📊 github magic
+<img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/marquee.svg" width="95%" alt="marquee"/>
+
+</div>
 
 <br/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AlishbaIrfan&show_icons=true&theme=transparent&title_color=ff69b4&icon_color=ff69b4&text_color=d63384&border_color=ffc0cb&border_radius=20"/>
+<!-- ░░ FOOTER ░░ -->
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIrfan&layout=compact&title_color=ff69b4&text_color=d63384&border_color=ffc0cb&border_radius=20"/>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="32" alt="heart"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="32" alt="star"/>
+&nbsp;
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Pink%20Heart.png" width="32" alt="heart"/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AlishbaIrfan&theme=transparent&ring=ff69b4&fire=ff1493&currStreakLabel=ff69b4&sideLabels=ff69b4&currStreakNum=d63384&sideNums=d63384&dates=ff85c0&border=ffc0cb&border_radius=20"/>
+*crafted with* 💖 *by* **Alishba Irfan** &nbsp;·&nbsp; *may your models converge & your PRs ship cleanly* ✨
 
-</div>
+<br/>
 
----
-
-<div align="center">
-
-# 🐍 contribution snake
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" width="95%"/>
-
-</div>
-
----
-
-<div align="center">
-
-# 🌷 activity graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishbaIrfan&bg_color=fff0f7&color=ff69b4&line=ff1493&point=ff85c0&area=true&hide_border=true"/>
-
-</div>
-
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=24,20,18,17,30"/>
-
-### 💕 thanks for visiting my profile 💕
-
-✨ *keep creating • keep dreaming • keep glowing* ✨
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=110&section=footer&fontSize=0" width="100%"/>
 
 </div>
