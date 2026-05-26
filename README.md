@@ -1,99 +1,163 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,17,20&height=300&section=header&text=Alishba%20Irfan&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=55&desc=ML%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descAlignY=75&descSize=20&descColor=ffd6e7" width="100%"/>
+</div>
 
-<img src="https://i.pinimg.com/736x/a4/6e/f3/a46ef38d4bdb540e87edf7b2f8fe5b0e.jpg" width="160px" style="border-radius: 50%;" alt="Alishba Irfan"/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Playfair+Display&size=28&center=true&vCenter=true&width=600&height=60&duration=3500&pause=1200&color=E91E8C&lines=Hey+there%2C+I'm+Alishba+%F0%9F%8C%B8;ML+Engineer+%26+Full+Stack+Dev+%E2%9C%A8;I+build+things+that+think+%26+feel+%F0%9F%8C%99;Turning+data+into+magic+%F0%9F%AA%84" />
+</div>
 
 <br/>
 
-# Alishba Irfan
-
-**ML Engineer · Full Stack Developer**
-
-*Building intelligent systems and clean, purposeful interfaces.*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=header&fontSize=0" width="100%"/>
-
+<div align="center">
+  <img src="https://i.pinimg.com/736x/a4/6e/f3/a46ef38d4bdb540e87edf7b2f8fe5b0e.jpg" width="160" style="border-radius:50%; border: 3px solid #f48fb1"/>
 </div>
 
----
-
-### 👩‍💻 About Me
-
-I'm a software engineer who works at the intersection of machine learning and full-stack development. I enjoy taking ideas from model training all the way to production-ready web applications.
-
-- 🤖 Specialising in NLP, Computer Vision, and MLOps
-- 🌐 Building end-to-end web apps with modern frameworks
-- 📖 Currently exploring LLMs and Generative AI
-- ☕ Best code written with tea, not coffee
+<br/>
 
 ---
-
-### 🛠 Tech Stack
-
-**Machine Learning**
-
-![Python](https://img.shields.io/badge/Python-f8bbd0?style=flat-square&logo=python&logoColor=880e4f)
-![PyTorch](https://img.shields.io/badge/PyTorch-fce4ec?style=flat-square&logo=pytorch&logoColor=880e4f)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-f8bbd0?style=flat-square&logo=tensorflow&logoColor=880e4f)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-fce4ec?style=flat-square&logo=scikit-learn&logoColor=880e4f)
-![Pandas](https://img.shields.io/badge/Pandas-f8bbd0?style=flat-square&logo=pandas&logoColor=880e4f)
-![Jupyter](https://img.shields.io/badge/Jupyter-fce4ec?style=flat-square&logo=jupyter&logoColor=880e4f)
-
-**Frontend**
-
-![React](https://img.shields.io/badge/React-ede7f6?style=flat-square&logo=react&logoColor=6a1b9a)
-![Next.js](https://img.shields.io/badge/Next.js-e8eaf6?style=flat-square&logo=next.js&logoColor=6a1b9a)
-![TypeScript](https://img.shields.io/badge/TypeScript-ede7f6?style=flat-square&logo=typescript&logoColor=6a1b9a)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-e8eaf6?style=flat-square&logo=tailwind-css&logoColor=6a1b9a)
-
-**Backend & DevOps**
-
-![Node.js](https://img.shields.io/badge/Node.js-e8f5e9?style=flat-square&logo=node.js&logoColor=2e7d32)
-![FastAPI](https://img.shields.io/badge/FastAPI-e8f5e9?style=flat-square&logo=fastapi&logoColor=2e7d32)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-e3f2fd?style=flat-square&logo=postgresql&logoColor=1565c0)
-![Docker](https://img.shields.io/badge/Docker-e3f2fd?style=flat-square&logo=docker&logoColor=1565c0)
-![MongoDB](https://img.shields.io/badge/MongoDB-e8f5e9?style=flat-square&logo=mongodb&logoColor=2e7d32)
-
----
-
-### 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AlishbaIrfan&show_icons=true&bg_color=fff0f5&title_color=d81b60&icon_color=e91e8c&text_color=880e4f&border_color=f8bbd0&border_radius=10&hide_border=false" height="155"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIrfan&layout=compact&bg_color=f3e5f5&title_color=7b1fa2&text_color=6a1b9a&border_color=e1bee7&border_radius=10" height="155"/>
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=AlishbaIrfan&background=FFF8FB&ring=E91E8C&fire=F06292&currStreakLabel=C2185B&border=F8BBD0&currStreakNum=E91E8C&sideLabels=C2185B&sideNums=E91E8C&dates=CE93D8&border_radius=10" height="155"/>
+## 🌸 · A b o u t · M e · 🌸
 
 </div>
 
+<p align="center">
+I'm a passionate engineer who lives at the intersection of <strong>Machine Learning</strong> and <strong>Full Stack Development</strong>.<br/>
+I love building intelligent systems — from training models to shipping polished web applications.<br/>
+<em>Data is my canvas. Code is my brush.</em> 🎨
+</p>
+
+<br/>
+
+<div align="center">
+
+```yaml
+name     :  Alishba Irfan
+roles    :  ML Engineer  ·  Full Stack Developer
+focus    :  NLP · Computer Vision · LLMs · Web Apps
+vibe     :  Clean code · Aesthetic UIs · Late-night builds
+status   :  Always learning ✨
+```
+
+</div>
+
+<br/>
+
 ---
 
-### 🌸 Projects
+<div align="center">
 
-| Project | Description | Stack |
-|---|---|---|
-| **Neural Blossom** | Image recognition system with explainability | PyTorch · FastAPI · React |
+## 💜 · T e c h · S t a c k · 💜
+
+</div>
+
+<h3 align="center">🤖 Machine Learning & AI</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,jupyter,opencv&theme=light" />
+</div>
+
+<br/>
+
+<h3 align="center">🌐 Frontend</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css&theme=light" />
+</div>
+
+<br/>
+
+<h3 align="center">⚙️ Backend & Tools</h3>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,fastapi,django,postgresql,mongodb,docker&theme=light" />
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🐍 · C o n t r i b u t i o n s · 🐍
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 📊 · G i t H u b · S t a t s · 📊
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AlishbaIrfan&show_icons=true&bg_color=fff0f5&title_color=d81b60&icon_color=e91e8c&text_color=880e4f&border_color=f8bbd0&border_radius=12" height="165"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlishbaIrfan&layout=compact&bg_color=f3e5f5&title_color=7b1fa2&text_color=6a1b9a&border_color=e1bee7&border_radius=12" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=AlishbaIrfan&background=FFF8FB&ring=E91E8C&fire=F06292&currStreakLabel=C2185B&border=F8BBD0&currStreakNum=E91E8C&sideLabels=C2185B&sideNums=E91E8C&dates=CE93D8&border_radius=12" height="165"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## 🌺 · P r o j e c t s · 🌺
+
+</div>
+
+<div align="center">
+
+| 🌸 Project | 💡 Description | 🛠 Stack |
+|:---:|:---:|:---:|
+| **Neural Blossom** | Image recognition with explainability | PyTorch · FastAPI · React |
 | **Sakura Predict** | Time-series forecasting dashboard | TensorFlow · Next.js · PostgreSQL |
 | **ML Studio** | No-code ML pipeline builder | Scikit-learn · Django · TypeScript |
 | **Starlight API** | RESTful backend with smart caching | Node.js · Docker · MongoDB |
 
----
-
-### 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishbaIrfan&bg_color=fff0f5&color=d81b60&line=f48fb1&point=c2185b&area=true&area_color=fce4ec&border_color=f8bbd0&radius=8" width="95%"/>
 </div>
 
+<br/>
+
 ---
 
 <div align="center">
 
-> *"Write code that's worth reading."*
+## 📈 · A c t i v i t y · 📈
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=80&section=footer&fontSize=0" width="100%"/>
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AlishbaIrfan&bg_color=fff0f5&color=d81b60&line=f48fb1&point=c2185b&area=true&area_color=fce4ec&border_color=f8bbd0&radius=10" width="95%"/>
+
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Write+code+that%27s+worth+reading.&author=Alishba+Irfan" />
+
+<br/><br/>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AlishbaIrfan.AlishbaIrfan&color=f48fb1&labelColor=fce4ec)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,17,20&height=120&section=footer&fontSize=0" width="100%"/>
 
 </div>
