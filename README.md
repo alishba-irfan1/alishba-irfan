@@ -4,14 +4,8 @@
 
 <!-- ░░ ANIMATED CYLINDER HEADER ░░ -->
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=0,2,2,5,30&height=260&section=header&text=Alishba%20Irfan&fontSize=72&fontColor=ffffff&animation=blinking&fontAlignY=55&desc=✦%20ML%20Engineer%20%20·%20%20Full%20Stack%20Developer%20✦&descAlignY=75&descSize=20&descColor=ffd6e7" width="100%"/>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Alishba+Irfan!;" />
 </div>
-
-<!-- ░░ TYPING ANIMATION ░░ -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=500&size=23&duration=2800&pause=1000&color=E91E8C&center=true&vCenter=true&width=640&height=55&lines=🌸+Welcome+to+my+GitHub+universe+🌸;✨+I+build+things+that+think+%26+feel;🤖+NLP+·+Computer+Vision+·+LLMs;🌙+From+raw+data+to+polished+products;💫+Clean+code+·+Aesthetic+UIs+·+Big+dreams" alt="Typing SVG"/>
-</div>
-
 <br/>
 
 <!-- ░░ ANIME AVATAR + ANIMATED ICONS ROW ░░ -->
